@@ -6,6 +6,8 @@ export function printLineNumber() {
     numberOfLines ++;
 }
 
+console.log('Hola');
+
 printLineNumber()
 printLineNumber()
 printLineNumber()
