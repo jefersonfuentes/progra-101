@@ -1,2 +1,2 @@
 # progra-101
-Fundamentals of programming 
+Fundamentals of programming in TypeScript
